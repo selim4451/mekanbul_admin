@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Starbucks",
+    "address": "Centrum Garden",
+    "rating": 5,
+    "foodanddrink": ["çay", "kahve", "pasta"],
+    "distance": 5,
+    "coordinates": [37.83226584629666, 30.524732239878013],
+    "hours": [
+      {
+        "days": "Pazartesi-Cuma",
+        "open": "9:00",
+        "close": "23:00"
+      },
+      {
+        "days": "Cumartesi-Pazar",
+        "open": "11:00",
+        "close": "17:00"
+      }
+    ],
+    "comments": [
+      { "author": "Sinan", "rating":1,"date": "2023-12-13", "text": "berbat" },
+      { "author": "Erkan","rating":5, "date": "2023-12-13", "text": "süper" }
+      
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Barida Cam Kafe",
+    "address": "E8 girişinin karşısı",
+    "rating": 2,
+    "foodanddrink": ["çay", "kahve", "simit", "poaça"],
+    "distance": 1,
+    "coordinates": [37.83226584629666, 30.524732239878013],
+    "hours": [
+      {
+        "days": "Pazartesi-Cuma",
+        "open": "9:00",
+        "close": "23:00"
+      },
+      {
+        "days": "Cumartesi-Pazar",
+        "open": "11:00",
+        "close": "17:00"
+      }
+    ],
+    "comments": [
+      { "author": "Asım", "rating":5,"date": "2023-12-13", "text": "harika" },
+      { "author": "Mehmet","rating":4, "date": "2023-12-13", "text": "fena değil" }
+      
+    ]
+  },
+  {
+    "id": 3,
+    "name": "IyaşPark Avm",
+    "address": "otogarın yanı",
+    "rating": 5,
+    "foodanddrink": ["alışveriş", "kafe", "yemek", "sinema"],
+    "distance": 5,
+    "coordinates": [37.83226584629666, 30.524732239878013],
+    "hours": [
+      {
+        "days": "Pazartesi-Cuma",
+        "open": "10:00",
+        "close": "23:00"
+      },
+      {
+        "days": "Cumartesi-Pazar",
+        "open": "11:00",
+        "close": "23:00"
+      }
+    ],
+    "comments": [
+      { "author": "Amad", "rating":5,"date": "2023-12-13", "text": "harika" },
+      { "author": "cemşit","rating":4, "date": "2023-12-13", "text": "pörfekto"}
+      
+    ]
+  }
+]
